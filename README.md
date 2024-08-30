@@ -27,4 +27,36 @@ for this purpose.
 
 ### Output:
 
+![image](https://github.com/user-attachments/assets/7cf3d649-2b7b-4918-b8a3-643b2e039905)
+
+![image](https://github.com/user-attachments/assets/6ecb618d-8e31-4255-96f4-540549a359fb)
+
+![image](https://github.com/user-attachments/assets/90d86001-75ef-475c-b2e9-8dd43fa0343b)
+
+![image](https://github.com/user-attachments/assets/65ed65a8-278f-4260-ab44-7eb8a71e8163)
+
+# Select
+![image](https://github.com/user-attachments/assets/d28acb35-a0dc-488f-8328-4136b96edef1)
+
+# Replace
+![image](https://github.com/user-attachments/assets/0ba94aa8-e016-4c2f-b855-6f2c8a85cfb2)
+
+# Tokenize
+![image](https://github.com/user-attachments/assets/dfceb358-41ea-4b5d-89b9-830dbb6c80d1)
+
+# Transform Cases
+![image](https://github.com/user-attachments/assets/be4d3cce-9dca-4723-a9c7-ce6ea98d856b)
+
+# Filter Tokens (by length)
+
+![image](https://github.com/user-attachments/assets/115d1a8c-0d10-4fd8-920d-6b021b15f381)
+
+# Filter stopwords
+![image](https://github.com/user-attachments/assets/f619ff47-32ad-4707-9771-af84096066f9)
+
+# Stem
+![image](https://github.com/user-attachments/assets/ccbed6a7-8660-40ee-bfeb-ced304f3eb49)
+
 ### Result:
+
+Thus the implementation of preprocessing technique on Twitter Data using Rapidminer is executed successfully.
